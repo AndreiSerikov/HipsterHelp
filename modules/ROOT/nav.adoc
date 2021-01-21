@@ -1,4 +1,4 @@
-* xref:Tillypad.adoc[Система Tillypad]
+* xref:index.adoc[Система Tillypad]
 ** xref:TillypadManager.adoc[Программа Tillypad Manager]
 *** xref:TillypadManager_Menu.adoc[Прейскурант]
 *** xref:TillypadManager_Sales.adoc[Продажи]

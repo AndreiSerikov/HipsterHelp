@@ -1,6 +1,6 @@
 name: Tillypad system
 title: Система Tillypad
 version: 1.0
-start_page: ROOT/pages:Tillypad.adoc
+start_page: ROOT/pages:index.adoc
 nav:
 - modules/ROOT/nav.adoc
