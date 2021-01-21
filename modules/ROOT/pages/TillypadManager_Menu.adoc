@@ -1,0 +1,32 @@
+[[TillypadManager_Menu, Прейскурант]]
+=== Прейскурант
+Андрей Сериков
+:doctype: article
+:encoding: utf-8
+:lang: en
+:toc: left
+:numbered:
+
+
+
+
+[[TillypadManager_Sale, Продажи]]
+=== Продажи
+
+[[TillypadManager_Store, Склад]]
+=== Склад
+
+[[TillypadManager_Counterparts, Контрагенты]]
+=== Контрагенты
+
+[[TillypadManager_Devices, Устройства]]
+=== Устройства
+
+[[TillypadManager_Access, Доступ]]
+=== Доступ
+
+[[TillypadManager_Service, Сервис]]
+=== Сервис
+
+[[TillypadManager_Reports, Отчеты]]
+=== Отчеты

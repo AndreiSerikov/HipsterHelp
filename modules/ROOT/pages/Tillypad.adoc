@@ -1,0 +1,25 @@
+[[Tillypad, Система Tillypad]]
+= Система Tillypad для непосвященных: Как рассказать обо всем на хипстерском языке
+Андрей Сериков
+:doctype: book
+:encoding: utf-8
+:lang: ru
+:toc: left
+:numbered:
+
+
+
+
+
+
+[[TillypadPOS, Программа Tillypad POS]]
+== Программа Tillypad POS
+
+[[MiniPOS, Приложение MiniPOS]]
+== Приложение MiniPOS
+
+
+
+
+
+

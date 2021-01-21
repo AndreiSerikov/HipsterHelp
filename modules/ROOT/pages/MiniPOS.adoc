@@ -1,0 +1,9 @@
+[[MiniPOS, Приложение MiniPOS]]
+== Приложение MiniPOS
+Андрей Сериков
+:doctype: article
+:encoding: utf-8
+:lang: ru
+:toc: left
+:numbered:
+
